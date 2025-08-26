@@ -17,7 +17,7 @@ resource "aws_instance" "example" {
   Name = "terraform-example"
   }
 }
-
+sdfsdf
 resource "aws_security_group" "instance" {
   name = "terraform-example-instance"
 
