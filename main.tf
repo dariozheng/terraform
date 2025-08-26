@@ -17,7 +17,7 @@ resource "aws_instance" "example" {
   Name = "terraform-example"
   }
 }
-hjkg
+
 resource "aws_security_group" "instance" {
   name = "terraform-example-instance"
 
